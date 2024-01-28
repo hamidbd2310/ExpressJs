@@ -1,6 +1,8 @@
 npm init --y       ///Start NodeJS
 npm i express      ///Start expressJs
 
+npm i nodemon //
+
 
 MVC
 Mode=MongoDB-Schema
